@@ -6,8 +6,8 @@
 </a>
 
 <p align="center">
-  <a href="https://rhy.io">rhy.io</a> &nbsp;·&nbsp;
   <a href="https://rhy.io/notes">Notes</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/rhythmsh">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://www.youtube.com/@RhythmShahriar">YouTube</a>
+  <a href="https://www.facebook.com/rythm.sh">Facebook</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/rythm.sh">Instagram</a>
 </p>
